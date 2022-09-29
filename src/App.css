@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.food-example img{
+  height: 50px;
+}
+
+.food-list {
+  display: flex;
+  flex-wrap: wrap;;
+}
+
+.container {
+  margin: 10px;
+}
